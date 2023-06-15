@@ -1,5 +1,5 @@
 {
-  "name": "simon-feamzy/capacitor-mixpanel",
+  "name": "capacitor-mixpanel",
   "version": "3.0.0",
   "description": "Capacitor plugin for Mixpanel",
   "main": "dist/plugin.cjs.js",
